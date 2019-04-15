@@ -8,4 +8,4 @@
 
 ## Déploiement
 
-* Lien vers le site déployé sur Netlify : https://www.keen-sammet-420f55.netlify.com
+* Lien vers le site déployé sur Netlify : https://keen-sammet-420f55.netlify.com
