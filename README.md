@@ -8,4 +8,4 @@
 
 ## Déploiement
 
-* Lien vers le site déployé sur Netlify : https://sad-chandrasekhar-ff2e85.netlify.com
+* Lien vers le site déployé sur Netlify : https://nervous-leavitt-f0002f.netlify.com/
